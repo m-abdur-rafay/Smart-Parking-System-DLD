@@ -37,8 +37,8 @@ Below is the complete architectural layout verified inside the simulation enviro
 Here is the functional physical prototype assembled and mapped out on the breadboards:
 
 <p align="center">
-  <img src="hardware1.jpg" width="48%" />
-  <img src="hardware2.jpg" width="48%" />
+  <img src="hardware1.jpeg" width="48%" />
+  <img src="hardware2.jpeg" width="48%" />
 </p>
 
 ---
